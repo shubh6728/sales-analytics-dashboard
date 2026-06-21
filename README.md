@@ -4,6 +4,17 @@
 
 This Power BI dashboard provides comprehensive sales performance analysis across products, customers, cities, and promotional campaigns. The project leverages a Star Schema data model and interactive visualizations to support business decision-making.
 
+## Business Problem
+
+The objective of this dashboard is to analyze sales performance across products, cities, and promotional campaigns to identify revenue drivers, profitability trends, and growth opportunities.
+
+## Key Insights
+
+- Apple iPhone 14 generated the highest sales revenue.
+- Apple MacBook Air delivered strong profitability.
+- Promotional campaigns influenced overall sales performance.
+- Sales trends can be analyzed by city and time period.
+  
 ## Tools & Technologies
 
 * Power BI
